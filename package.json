@@ -1,0 +1,14 @@
+{
+  "name": "elecron-app1",
+  "version": "1.0.0",
+  "description": "First Electron App",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Makarand",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
